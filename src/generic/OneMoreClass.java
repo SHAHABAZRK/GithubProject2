@@ -1,10 +1,10 @@
 package generic;
 
-public class FirstClass {
+public class OneMoreClass {
 
 	public static void main(String[] args) {
 
-		System.out.println("Hello Github Hi");
+		System.out.println("Whatsup Github");
 
 	}
 
